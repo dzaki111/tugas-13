@@ -1,5 +1,7 @@
 # tugas-13
-
+# DZAKI ARIF RAHMAN
+# 312410312
+# Ti.24.a4
 # Proyek Mahasiswa - Sistem Informasi Mahasiswa
 
 Ini adalah contoh proyek Python yang menggunakan konsep Object-Oriented Programming (OOP) untuk mengelola data mahasiswa.
@@ -152,20 +154,4 @@ if __name__ == "__main__":
 3. **Menampilkan Data Mahasiswa**:
    Program akan menampilkan daftar mahasiswa dan detail mahasiswa sesuai dengan yang diminta.
 
-## Persyaratan Sistem
-
-Pastikan Anda telah menginstal Python versi 3.x pada sistem Anda.
-
-Untuk menginstal dependensi proyek ini (jika ada), Anda dapat menggunakan `pip`:
-
-```
-pip install -r requirements.txt
-```
-
-Namun, proyek ini tidak membutuhkan dependensi eksternal.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, Anda bisa membuat pull request atau menghubungi saya langsung.
-
-Terima kasih telah menggunakan proyek ini!
+![image](https://github.com/user-attachments/assets/aac082fb-9133-4c53-b498-5d92f24cf284)
